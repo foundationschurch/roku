@@ -1,0 +1,38 @@
+{
+  "providerName": "Living As One",
+  "language": "en-US",
+  "lastUpdated": "2017-08-26T18:12:32.125Z",
+  "shortFormVideos": [
+    {
+      "id": "uid1",
+      "title": "Foundations Church",
+      "shortDescription": "At Foundations you’ll find a multi-generational church that loves people. You truly matter to God and you matter to us and no matter who you are or where you’ve been, you’re welcome here.",
+      "thumbnail": "https://storage.googleapis.com/support.livingasone.com/files/roku/COLive.png",
+      "genres": [
+        "gaming",
+        "technology"
+      ],
+      "tags": [
+        "gaming",
+        "broadcasts",
+        "live",
+        "twitch",
+        "technology"
+      ],
+      "releaseDate": "2017-08-26",
+      "content": {
+        "dateAdded": "2017-08-26T14:14:54.431Z",
+        "captions": [],
+        "duration": 53,
+        "videos": [
+          {
+            "url": "https://media3.livingasone.com/fnd-lv-co/Manifest.mpd",
+            "quality": "FHD",
+            "videoType": "DASH",
+            "bitrate": "3000"
+          }
+        ]
+      }
+    }
+  ]
+}
